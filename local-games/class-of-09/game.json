@@ -1,0 +1,95 @@
+{
+  "slug": "class-of-09",
+  "title": "Class of '09",
+  "type": "HTML",
+  "developer": "SBN3",
+  "description": "The one visual novel you'll love even if you hate visual novels. Relive the high school experience where you play as the girl with unlimited social leverage. Late 2000's aesthetic with the most biting social accuracy in the history of media. Expect the unexpected. As you make your way to 15 different endings, our cast featuring Elsie Lovelock, Kayli Mills, Kira Buckland, and more will play you through the action the way it was meant to unfold! Avoid the carpal tunnel, this visual novel smoothly auto-progresses like a movie and stops at the crossroads where you call the shots. The choices you make reveal your personality, not ours. Bonus lore and unlockable scenes upon 100%ing the game. Clothes change in real time, 100+ outfits to cover 25 characters. [All characters depicted are over the age of 18]",
+  "tags": [
+    "Visual Novel",
+    "Comedy",
+    "Story Rich",
+    "Multiple Endings",
+    "Simulation",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "e2a9617e-3366-4573-9d52-430288b9547c",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/index.html",
+  "status": "done",
+  "sizeBytes": 62078200,
+  "assetCount": 38,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/game.zip",
+    "https://playobsidian.com/game.zip",
+    "https://playobsidian.com/lib/python3.11/lib-dynload/empty.txt",
+    "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json?uncached",
+    "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json",
+    "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json?cached",
+    "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/savegames.zip",
+    "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/datafile_renpy.data"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/game.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/game.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/game.zip",
+      "error": "HTTP 404 for https://playobsidian.com/game.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/lib/python3.11/lib-dynload/empty.txt",
+      "error": "HTTP 404 for https://playobsidian.com/lib/python3.11/lib-dynload/empty.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json?uncached",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json?uncached",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json?cached",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/pwa_catalog.json?cached",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/savegames.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/savegames.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/datafile_renpy.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/e2a9617e-3366-4573-9d52-430288b9547c/1/datafile_renpy.data",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:11:56.096Z",
+  "verifiedAt": "2026-10-26T11:12:06.497Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Class of '09",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}
