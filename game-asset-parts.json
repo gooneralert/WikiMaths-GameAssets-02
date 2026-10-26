@@ -39,5 +39,39 @@
         "size": 1488986
       }
     ]
+  },
+  "local-games/ambidextro/Ambidextro.pck": {
+    "size": 108624688,
+    "parts": [
+      {
+        "path": "local-games/ambidextro/Ambidextro.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/ambidextro/Ambidextro.pck.part002",
+        "size": 18624688
+      }
+    ]
+  },
+  "local-games/bat-to-the-heavens/index.pck": {
+    "size": 270575744,
+    "parts": [
+      {
+        "path": "local-games/bat-to-the-heavens/index.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/bat-to-the-heavens/index.pck.part002",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/bat-to-the-heavens/index.pck.part003",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/bat-to-the-heavens/index.pck.part004",
+        "size": 575744
+      }
+    ]
   }
 }
